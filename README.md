@@ -26,3 +26,4 @@ Modlist:
 - (A Culinary Artillery)[https://mods.vintagestory.at/show/mod/4151]
 - (Expanded Foods)[https://mods.vintagestory.at/show/mod/28]
 - (Primitive Survival)[https://mods.vintagestory.at/show/mod/1238]
+- [BetterProspecting](https://github.com/TheWanderingCrow-VS-Mods/BetterProspecting)
