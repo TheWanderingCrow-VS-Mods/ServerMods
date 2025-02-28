@@ -8,6 +8,7 @@ Modlist:
 - [BetterProspecting](https://github.com/TheWanderingCrow-VS-Mods/BetterProspecting)
 - [BetterTraders](https://mods.vintagestory.at/show/mod/6160)
 - [Butchering](https://mods.vintagestory.at/butchering)
+- [CommonLib](https://mods.vintagestory.at/commonlib)
 - [Expanded Foods](https://mods.vintagestory.at/show/mod/28)
 - [Firewood to Sticks](https://mods.vintagestory.at/show/mod/16323)
 - [Flour Bags](https://mods.vintagestory.at/show/mod/10014)
