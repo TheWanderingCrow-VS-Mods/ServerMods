@@ -25,6 +25,7 @@ Modlist:
 - [Manual Tool Crafting](https://mods.vintagestory.at/manualtoolcrafting)
 - [More Piles](https://mods.vintagestory.at/show/mod/941)
 - [Notice Board](https://mods.vintagestory.at/show/mod/14501)
+- [ImGui](https://mods.vintagestory.at/imgui)
 - [OneRoof](https://mods.vintagestory.at/show/mod/9826)
 - [PipeLeaf](https://mods.vintagestory.at/show/mod/8322)
 - [Place Every Item](https://mods.vintagestory.at/pei)
