@@ -8,6 +8,8 @@ Modlist:
 - [BetterProspecting](https://github.com/TheWanderingCrow-VS-Mods/BetterProspecting)
 - [BetterTraders](https://mods.vintagestory.at/show/mod/6160)
 - [Butchering](https://mods.vintagestory.at/butchering)
+- [Canoe Mod](https://mods.vintagestory.at/canoemod)
+- [Carry On](https://mods.vintagestory.at/carryon)
 - [Combat Overhaul](https://mods.vintagestory.at/show/mod/12614)
 - [CommonLib](https://mods.vintagestory.at/commonlib)
 - [Config Lib](https://mods.vintagestory.at/configlib)
